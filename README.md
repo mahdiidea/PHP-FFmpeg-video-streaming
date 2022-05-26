@@ -41,7 +41,7 @@ This library is a wrapper around **[PHP-FFMpeg](https://github.com/PHP-FFMpeg/PH
 ## Installation
 Install the package via **[composer](https://getcomposer.org/)**:
 ``` bash
-composer require aminyazdanpanah/php-ffmpeg-video-streaming
+composer require mahdiidea/php-ffmpeg-video-streaming
 ```
 Alternatively, add the dependency directly to your `composer.json` file:
 ``` json
